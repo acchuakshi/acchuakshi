@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acchuakshi&label=Profile%20views&color=0e75b6&style=flat" alt="acchuakshi" /> </p>
 
-- 🔭 I’m currently persuing **B.sc.IT with Data Science**
+- 🔭 I’m currently persuing **Searching for jobs related to my carrier**
 
-- 🌱 I’m currently learning **Python,Cyber Security**
+- 🌱 I’m currently learning **Python,C,andjava**
 
 - 💬 Ask me about **MACHINE LEARNING,JAVA,HTML,SQL**
 
