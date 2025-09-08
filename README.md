@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently persuing **Searching for jobs related to my carrier**
 
-- 🌱 I’m currently learning **Python,C,andjava**
+- 🌱 I’m currently learning **Python,C,and java**
 
 - 💬 Ask me about **MACHINE LEARNING,JAVA,HTML,SQL**
 
