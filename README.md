@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acchuakshi&label=Profile%20views&color=0e75b6&style=flat" alt="acchuakshi" /> </p>
 
-- 🔭 I’m currently persuing **Searching for jobs related to my carrier**
+- 🔭 I’m currently **Searching for jobs related to my carrier**
 
 - 🌱 I’m currently learning **Python,C,and java**
 
